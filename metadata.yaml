@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7360
     wikipedia: http://en.wikipedia.org/wiki/Bernard_Berenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17408#The-Florentine-Painters-of-the-RenaissanceWith-An-Index-To-Their-Works
 gutenberg_bookshelf: Art
 gutenberg_issued: '2005-12-28'
 gutenberg_type: Text
